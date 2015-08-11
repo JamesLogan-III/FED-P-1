@@ -1,1 +1,0 @@
-*{	font-family: 'Lato', sans-serif;	}h1, h2, h3, h4 {	font-weight: 200;		color: #BCBBBB;}h4 {	color: #747704;}.nav {		padding: 10px;	}.logo-img {	margin-top: 20px;}.separator {	border-bottom: 3px solid #BCBBBB;}.ghost-link, .ghost-link:hover, ghost-link:visited {	text-decoration: none;	color: #747704;}
